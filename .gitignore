@@ -1,0 +1,10 @@
+# Папки и файлы PyCharm
+.idea/
+*.iml
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
