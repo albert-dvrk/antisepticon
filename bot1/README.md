@@ -14,5 +14,5 @@ docker run -d -p 5000:5000 --name currency-bot currency-bot
 
 
 
-!\[Интерфейс Currency Bot](./attachments/Интерфейс%20bot1.png)
+!\[Интерфейс bot1](./attachments/Интерфейс%20bot1.png)
 
