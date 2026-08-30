@@ -2,9 +2,17 @@
 
 Запуск через Docker
 
-bash 
+bash
 
 docker build -t currency-bot .
 
 docker run -d -p 5000:5000 --name currency-bot currency-bot
+
+
+
+📸 Интерфейс
+
+
+
+!\[Интерфейс Currency Bot](./attachments/Интерфейс%20bot1.png)
 
